@@ -1,0 +1,4 @@
+name: NoElytraFly
+version: '${project.version}'
+main: com.genife.noelytrafly.NoElytraFly
+api-version: 1.19
